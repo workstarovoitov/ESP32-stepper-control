@@ -19,3 +19,4 @@ This project uses the source code of the [GRBL for the ESP32](https://github.com
 * If somth go wrong with WebUI or you need to clear nodeMCU memory use [Flash download tool](https://www.espressif.com/en/support/download/other-tools)
 
 ## Motorized mic stand
+![micStand](https://github.com/workstarovoitov/stepperControlNodeMCU/blob/main/.github/images/micStand.jpg)
