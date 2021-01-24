@@ -1,6 +1,6 @@
 ### Introduction
-Projects assembled with ESP32, some steppers, and a pack of [openbuilds](https://openbuilds.com/) alu profiles and accessories.
-
+These projects are assembled from some parts like ESP32, some steppers, and a pack of [openbuilds](https://openbuilds.com/) alu profiles and accessories. All of them somehow control stepper motors with ESP32 via Wi-Fi
+ 
 ### Hardware
 Еhe projects use a **ESP32-Wroom *38-pin*** board 
 
