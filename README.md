@@ -1,8 +1,5 @@
-# stepperControlNodeMCU
-Different projects with nodeMCU control board
-
 ### Introduction
-Projects assembled with nodeMCU, some steppers, and a pack of [openbuilds](https://openbuilds.com/) alu profiles and accessories.
+Projects assembled with ESP32, some steppers, and a pack of [openbuilds](https://openbuilds.com/) alu profiles and accessories.
 
 ### Hardware
 Еhe projects use a **ESP32-Wroom *38-pin*** board 
