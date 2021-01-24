@@ -6,8 +6,11 @@ Projects assembled with nodeMCU, some steppers, and a pack of [openbuilds](https
 
 ### Hardware
 Еhe projects use a **ESP32-Wroom *38-pin*** board 
+
 ![wroom](https://github.com/workstarovoitov/stepperControlNodeMCU/blob/main/.github/images/wroom.jpeg)
+
 with this [shield](https://oshwlab.com/starovoitov/nodemcuStepperShield)
+
 ![shield](https://github.com/workstarovoitov/stepperControlNodeMCU/blob/main/.github/images/shield.jpg)
 
 ### Software
@@ -20,3 +23,5 @@ This project uses the source code of the [GRBL for the ESP32](https://github.com
 
 ## Motorized mic stand
 ![micStand](https://github.com/workstarovoitov/stepperControlNodeMCU/blob/main/.github/images/micStand.jpg)
+
+Some details you may find [here](https://openbuilds.com/builds/motorized-mic-stand.9755)
