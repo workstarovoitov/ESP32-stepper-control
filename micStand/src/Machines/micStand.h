@@ -28,6 +28,8 @@
 
 #define MACHINE_NAME            "MIC_STAND"
 
+#define DEFAULT_HOMING_SQUARED_AXES (bit(X_AXIS) | bit(Y_AXIS))
+
 #define X_STEP_PIN              GPIO_NUM_33
 #define X_DIRECTION_PIN         GPIO_NUM_32
 #define Y_STEP_PIN              GPIO_NUM_26
