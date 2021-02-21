@@ -23,7 +23,7 @@ This project uses the source code of the [GRBL for the ESP32](https://github.com
 
 Some details you may find [here](https://openbuilds.com/builds/motorized-mic-stand.9755)
 
-## Motorized mic stand
+## Laser engraver
 ![laserCNC](https://github.com/workstarovoitov/stepperControlNodeMCU/blob/main/.github/images/laserCNC.png)
 
 Some details you may find [here](https://openbuilds.com/builds/laser-engraver.9811)
